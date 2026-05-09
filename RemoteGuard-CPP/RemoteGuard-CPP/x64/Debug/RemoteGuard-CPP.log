@@ -1,0 +1,8 @@
+﻿  Main.cpp
+  WOLController.cpp
+C:\RemoteGuard-CPP\RemoteGuard-CPP\RemoteGuard-CPP\WOLController.cpp(1,9): warning C4005: '_WINSOCK_DEPRECATED_NO_WARNINGS': 매크로 재정의
+      C:\RemoteGuard-CPP\RemoteGuard-CPP\RemoteGuard-CPP\WOLController.cpp(1,9):
+      이전에 명령줄에서 선언된 '_WINSOCK_DEPRECATED_NO_WARNINGS'
+  
+  코드를 생성하고 있습니다...
+  RemoteGuard-CPP.vcxproj -> C:\RemoteGuard-CPP\RemoteGuard-CPP\x64\Debug\RemoteGuard-CPP.exe

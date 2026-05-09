@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RemoteGuard-CPP", "RemoteGuard-CPP\RemoteGuard-CPP.vcxproj", "{6592B571-0DA0-4A63-8B53-1439218D3A83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6592B571-0DA0-4A63-8B53-1439218D3A83}.Debug|x64.ActiveCfg = Debug|x64
+		{6592B571-0DA0-4A63-8B53-1439218D3A83}.Debug|x64.Build.0 = Debug|x64
+		{6592B571-0DA0-4A63-8B53-1439218D3A83}.Debug|x86.ActiveCfg = Debug|Win32
+		{6592B571-0DA0-4A63-8B53-1439218D3A83}.Debug|x86.Build.0 = Debug|Win32
+		{6592B571-0DA0-4A63-8B53-1439218D3A83}.Release|x64.ActiveCfg = Release|x64
+		{6592B571-0DA0-4A63-8B53-1439218D3A83}.Release|x64.Build.0 = Release|x64
+		{6592B571-0DA0-4A63-8B53-1439218D3A83}.Release|x86.ActiveCfg = Release|Win32
+		{6592B571-0DA0-4A63-8B53-1439218D3A83}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38647B54-1D9E-4AC0-9EB1-9A3AD2A79574}
+	EndGlobalSection
+EndGlobal
